@@ -1,6 +1,0 @@
-Flask
-reportlab
-mysql-connector-python
-Authlib
-python-dotenv
-requests
